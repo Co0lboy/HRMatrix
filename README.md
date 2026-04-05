@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>HRMatrix - Employee Management System</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f5f7fa;
-      color: #333;
-    }
-    .container {
-      max-width: 900px;
-      margin: auto;
-      background: #fff;
-      padding: 25px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #222;
-      color: #fff;
-      padding: 10px;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-    ul {
-      line-height: 1.8;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-  </style>
-</head>
 
-<body>
-<div class="container">
 
 <h1>🚀 HRMatrix - Employee Management System</h1>
 
